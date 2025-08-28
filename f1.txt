@@ -1,4 +1,1 @@
 hello
-gm
-hi
-hlo
